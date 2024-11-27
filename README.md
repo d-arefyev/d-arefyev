@@ -1,6 +1,6 @@
 # A little about me 
 
-With over 15 years of experience in graphic design, I have changed careers and completed a 10-month full-stack web developer course in Online School [ITCareerHub.de](https://itcareerhub.de/)*(opens in a new tab)*. I am looking for a junior position or internship with the prospect of a permanent position. I want to contribute to the success of the company with my skills and experience and look forward to taking on new challenges that will promote my professional growth. 
+With over 15 years of experience in graphic design, I have changed careers and completed a 10-month full-stack web developer course in Online School [ITCareerHub.de](https://itcareerhub.de/). I am looking for a junior position or internship with the prospect of a permanent position. I want to contribute to the success of the company with my skills and experience and look forward to taking on new challenges that will promote my professional growth. 
 
 ## My Skills  
 **Programming and Technologies:**
@@ -32,7 +32,7 @@ With over 15 years of experience in graphic design, I have changed careers and c
 [Project](https://my-portfolio-pet-shop.vercel.app/) | [GitHub](https://github.com/d-arefyev/React-Final-Project/tree/main/Pet-Shop)  
 
 **Positivus.** Project created independently using a YouTube masterclass.  
-*Skills:* 
+*Skills:*
 • Sass: Using variables, mixins, and nesting for modular and maintainable CSS code.  
 [Project](https://my-portfolio-positivus.vercel.app/) | [GitHub](https://github.com/d-arefyev/my-portfolio/tree/main/positivus)  
 
