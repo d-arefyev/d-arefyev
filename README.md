@@ -1,5 +1,5 @@
 # Denis Arefyev  
-**Junior Web Developer (Full-Stack)**  
+Junior Web Developer (Full-Stack)
 
 ## Summary  
 With over 15 years of experience in graphic design, I have changed careers and completed a 10-month full-stack web developer course in Germany.  
