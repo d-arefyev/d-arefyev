@@ -16,37 +16,37 @@ With over 15 years of experience in graphic design, I have changed careers and c
 *Skills:*  
 • Next.js: React framework for server-side and static applications.  
 • Node.js, Express, MongoDB, Mongoose, JWT, Bcrypt.  
-[HomePage](https://github.com/d-arefyev/NodeJS-TS-Social) | [GitHub](https://github.com/d-arefyev/NodeJS-TS-Social)  
+[Live Demo](https://github.com/d-arefyev/NodeJS-TS-Social) | [Source Code](https://github.com/d-arefyev/NodeJS-TS-Social)  
 
 **Mr.Transporter.** I was invited to work on this project to create the visual concept and develop the UI using Next.js (In development).  
 *Skills:*  
 • Creating the design in Figma.  
 • Building the UI and overall application architecture.  
-[HomePage](https://mr-transporter-app.vercel.app/) | [GitHub](https://github.com/d-arefyev/mr-transporter-app)  
+[Live Demo](https://mr-transporter-app.vercel.app/) | [Source Code](https://github.com/d-arefyev/mr-transporter-app)  
 
 **Pet Shop.** Final project of the React course.  
 *Skills:*  
 • React & Redux: Component architecture and global state.  
 • Routing & API: Navigation with React-Router and HTTP requests with Axios.  
 • Form management: Validation with React-Hook-Form and simplified logic with Redux Toolkit.  
-[HomePage](https://my-portfolio-pet-shop.vercel.app/) | [GitHub](https://github.com/d-arefyev/React-Final-Project/tree/main/Pet-Shop)  
+[Live Demo](https://my-portfolio-pet-shop.vercel.app/) | [Source Code](https://github.com/d-arefyev/React-Final-Project/tree/main/Pet-Shop)  
 
 **Positivus.** Project created independently using a YouTube masterclass.  
 *Skills:*  
 • Sass: Using variables, mixins, and nesting for modular and maintainable CSS code.  
-[HomePage](https://my-portfolio-positivus.vercel.app/) | [GitHub](https://github.com/d-arefyev/my-portfolio/tree/main/positivus)  
+[Live Demo](https://my-portfolio-positivus.vercel.app/) | [Source Code](https://github.com/d-arefyev/my-portfolio/tree/main/positivus)  
 
 **Kropp Fitness.** Project created independently using a YouTube masterclass.  
 *Skills:*  
 • HTML and CSS for responsive web design.  
-[HomePage](https://my-portfolio-kropp-fitness.vercel.app/) | [GitHub](https://github.com/d-arefyev/my-portfolio/tree/main/kropp-fitness)  
+[Live Demo](https://my-portfolio-kropp-fitness.vercel.app/) | [Source Code](https://github.com/d-arefyev/my-portfolio/tree/main/kropp-fitness)  
 
 **Meetup.** Final project of the HTML, CSS, and JavaScript course.  
 *Skills:*  
 • HTML: Structuring web pages, semantic markup, forms.  
 • CSS: Responsive design, Flexbox, grid systems, animations, and transitions.  
 • JavaScript: Dynamic user interfaces, DOM manipulation, event handling.  
-[HomePage](https://my-portfolio-meetup.vercel.app/) | [GitHub](https://github.com/d-arefyev/my-portfolio/tree/main/meetup)  
+[Live Demo](https://my-portfolio-meetup.vercel.app/) | [Source Code](https://github.com/d-arefyev/my-portfolio/tree/main/meetup)  
 
 [Graphic Designer Portfolio](https://drive.google.com/file/d/1ITiprqW6QslzVLYNF4HDiJnMw8fstfJg/view?usp=drive_link)  
 
