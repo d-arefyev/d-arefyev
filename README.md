@@ -51,6 +51,7 @@ With over 15 years of experience in graphic design, I have changed careers and c
 
 [Graphic Designer Portfolio](https://drive.google.com/file/d/1ITiprqW6QslzVLYNF4HDiJnMw8fstfJg/view?usp=drive_link)  
 
-
+## Contact
+Feel free to reach out to me via [Telegram](@denis_arefyev) or [Email](d.arefyev@gmail.com).
 
 **Thank you for visiting my profile!**
