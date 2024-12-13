@@ -29,24 +29,24 @@ With over 15 years of experience in graphic design, I have changed careers and c
 • React & Redux: Component architecture and global state.  
 • Routing & API: Navigation with React-Router and HTTP requests with Axios.  
 • Form management: Validation with React-Hook-Form and simplified logic with Redux Toolkit.  
-[Live Demo](https://my-portfolio-pet-shop.vercel.app/) | [Source Code](https://github.com/d-arefyev/React-Final-Project/tree/main/Pet-Shop)  
+[Live Demo](https://my-portfolio-pet-shop.vercel.app/) | [Source Code](https://github.com/d-arefyev/pet-shop-frontend)  
 
 **Positivus.** Project created independently using a YouTube masterclass.  
 *Skills:*  
 • Sass: Using variables, mixins, and nesting for modular and maintainable CSS code.  
-[Live Demo](https://my-portfolio-positivus.vercel.app/) | [Source Code](https://github.com/d-arefyev/my-portfolio/tree/main/positivus)  
+[Live Demo](https://my-portfolio-positivus.vercel.app/) | [Source Code](https://github.com/d-arefyev/positivus)  
 
 **Kropp Fitness.** Project created independently using a YouTube masterclass.  
 *Skills:*  
 • HTML and CSS for responsive web design.  
-[Live Demo](https://my-portfolio-kropp-fitness.vercel.app/) | [Source Code](https://github.com/d-arefyev/my-portfolio/tree/main/kropp-fitness)  
+[Live Demo](https://my-portfolio-kropp-fitness.vercel.app/) | [Source Code](https://github.com/d-arefyev/kropp-fitness)  
 
 **Meetup.** Final project of the HTML, CSS, and JavaScript course.  
 *Skills:*  
 • HTML: Structuring web pages, semantic markup, forms.  
 • CSS: Responsive design, Flexbox, grid systems, animations, and transitions.  
 • JavaScript: Dynamic user interfaces, DOM manipulation, event handling.  
-[Live Demo](https://my-portfolio-meetup.vercel.app/) | [Source Code](https://github.com/d-arefyev/my-portfolio/tree/main/meetup)  
+[Live Demo](https://my-portfolio-meetup.vercel.app/) | [Source Code](https://github.com/d-arefyev/meetup)  
 
 [Graphic Designer Portfolio](https://drive.google.com/file/d/1ITiprqW6QslzVLYNF4HDiJnMw8fstfJg/view?usp=drive_link)  
 
