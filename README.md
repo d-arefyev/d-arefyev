@@ -33,7 +33,7 @@ With over 15 years of experience in graphic design, I have changed careers and c
 
 **Positivus.** Project created independently using a YouTube masterclass.  
 *Skills:*  
-• HTML: Structuring web pages, semantic markup, forms. 
+• HTML: Structuring web pages, semantic markup, forms.  
 • Sass: Using variables, mixins, and nesting for modular and maintainable CSS code.  
 [Live Demo](https://my-portfolio-positivus.vercel.app/) | [Source Code](https://github.com/d-arefyev/positivus)  
 
@@ -50,6 +50,7 @@ With over 15 years of experience in graphic design, I have changed careers and c
 [Live Demo](https://my-portfolio-meetup.vercel.app/) | [Source Code](https://github.com/d-arefyev/meetup)  
 
 [Graphic Designer Portfolio](https://drive.google.com/file/d/1ITiprqW6QslzVLYNF4HDiJnMw8fstfJg/view?usp=drive_link)  
+
 
 
 **Thank you for visiting my profile!**
