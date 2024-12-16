@@ -28,7 +28,7 @@ With over 15 years of experience in graphic design, I have changed careers and c
 *Skills:*  
 • React & Redux: Component architecture and global state.  
 • Routing & API: Navigation with React-Router and HTTP requests with Axios.  
-• Form management: Validation with React-Hook-Form and simplified logic with Redux Toolkit.  
+• Form Management: Simplified validation logic using Redux Toolkit for state management and streamlined handling of form data and validation rules.  
 [Live Demo](https://my-portfolio-pet-shop.vercel.app/) | [Source Code](https://github.com/d-arefyev/pet-shop-frontend)  
 
 **Positivus.** Project created independently using a YouTube masterclass.  
