@@ -12,11 +12,11 @@ With over 15 years of experience in graphic design, I have changed careers and c
 
 ## Projects  
 
-**ICHgram.** Mini version of a photo and post service where users can register, log in, create posts, comment, like, and edit profiles with avatars (In development).  
+<!-- **ICHgram.** Mini version of a photo and post service where users can register, log in, create posts, comment, like, and edit profiles with avatars (In development).  
 *Skills:*  
 • Next.js: React framework for server-side and static applications.  
 • Node.js, Express, MongoDB, Mongoose, JWT, Bcrypt.  
-[Live Demo](https://github.com/d-arefyev/NodeJS-TS-Social) | [Source Code](https://github.com/d-arefyev/NodeJS-TS-Social)  
+[Live Demo](https://github.com/d-arefyev/NodeJS-TS-Social) | [Source Code](https://github.com/d-arefyev/NodeJS-TS-Social)   -->
 
 **Mr.Transporter.** I was invited to work on this project to create the visual concept and develop the UI using Next.js (In development).  
 *Skills:*  
