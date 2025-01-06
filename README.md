@@ -1,6 +1,10 @@
 # A little about me 
 
-With over 15 years of experience in graphic design, I have changed careers and completed a 10-month full-stack web developer course in Online School [ITCareerHub.de](https://itcareerhub.de/). I am looking for a junior position with the prospect of a permanent position. I want to contribute to the success of the company with my skills and experience and look forward to taking on new challenges that will promote my professional growth. 
+With over 15 years of experience in graphic design, I have changed careers and completed a 10-month full-stack web developer course in Online School [ITCareerHub.de](https://itcareerhub.de/). I am looking for a junior position with the prospect of a permanent position. I want to contribute to the success of the company with my skills and experience and look forward to taking on new challenges that will promote my professional growth.  
+
+[Lebenslauf](https://drive.google.com/file/d/1dWJ5F7g-2KF6OVvNjeparg4g6mJtF_6M/view?usp=sharing) | 
+[CV](https://drive.google.com/file/d/1fWigghiBoXbY6ByLIPge49uJ1DvWbCHH/view) | 
+[Graphic Designer Portfolio](https://drive.google.com/file/d/1ITiprqW6QslzVLYNF4HDiJnMw8fstfJg/view?usp=drive_link)  
 
 ## My Skills  
 <!-- **Programming and Technologies:** -->
@@ -48,10 +52,6 @@ With over 15 years of experience in graphic design, I have changed careers and c
 • CSS: Responsive design, Flexbox, grid systems, animations, and transitions.  
 • JavaScript: Dynamic user interfaces, DOM manipulation, event handling.  
 [Live Demo](https://my-portfolio-meetup.vercel.app/) | [Source Code](https://github.com/d-arefyev/meetup)  
-
-[Lebenslauf](https://drive.google.com/file/d/1dWJ5F7g-2KF6OVvNjeparg4g6mJtF_6M/view?usp=sharing)  
-[CV](https://drive.google.com/file/d/1fWigghiBoXbY6ByLIPge49uJ1DvWbCHH/view)  
-[Graphic Designer Portfolio](https://drive.google.com/file/d/1ITiprqW6QslzVLYNF4HDiJnMw8fstfJg/view?usp=drive_link)  
 
 ## Contact
 Feel free to reach out to me via [Telegram](https://t.me/denis_arefyev) or [Email](mailto:d.arefyev@gmail.com).
