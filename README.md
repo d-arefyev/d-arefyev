@@ -49,7 +49,7 @@ With over 15 years of experience in graphic design, I have changed careers and c
 • JavaScript: Dynamic user interfaces, DOM manipulation, event handling.  
 [Live Demo](https://my-portfolio-meetup.vercel.app/) | [Source Code](https://github.com/d-arefyev/meetup)  
 
-[Lebenslauf](https://drive.google.com/file/d/1dWJ5F7g-2KF6OVvNjeparg4g6mJtF_6M/view?usp=sharing)
+[Lebenslauf](https://drive.google.com/file/d/1dWJ5F7g-2KF6OVvNjeparg4g6mJtF_6M/view?usp=sharing)  
 [Graphic Designer Portfolio](https://drive.google.com/file/d/1ITiprqW6QslzVLYNF4HDiJnMw8fstfJg/view?usp=drive_link)  
 
 ## Contact
