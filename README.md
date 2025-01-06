@@ -22,11 +22,11 @@ With over 15 years of experience in graphic design, I have changed careers and c
 • Node.js, Express, MongoDB, Mongoose, JWT, Bcrypt.  
 [Live Demo](https://github.com/d-arefyev/NodeJS-TS-Social) | [Source Code](https://github.com/d-arefyev/NodeJS-TS-Social)   -->
 
-**Mr.Transporter.** I was invited to work on this project to create the visual concept and develop the UI using React.js + Vite (In development).  
+<!-- **Mr.Transporter.** I was invited to work on this project to create the visual concept and develop the UI using React.js + Vite (In development).  
 *Skills:*  
 • Creating the design in Figma.  
 • Building the UI and overall application architecture.  
-[Live Demo](https://react-mr-transporter.vercel.app/) | [Source Code](https://github.com/d-arefyev/react-mr-transporter)  
+[Live Demo](https://react-mr-transporter.vercel.app/) | [Source Code](https://github.com/d-arefyev/react-mr-transporter)   -->
 
 **Pet Shop.** Final project of the React course.  
 *Skills:*  
